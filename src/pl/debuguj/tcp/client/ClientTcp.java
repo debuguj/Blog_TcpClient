@@ -34,6 +34,7 @@ public final class ClientTcp {
     public static final int TIMEOUT = 10000;
     
     private static final int AUTO_CONNECTION_TIMEOUT = 5000;
+    
 
 
     public ClientTcp(String serverAddress, int port) { 
